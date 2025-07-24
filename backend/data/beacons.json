@@ -1,0 +1,6 @@
+[
+  { "id": "beacon-1", "location": { "x": 10, "y": 20 }, "gate": "A" },
+  { "id": "beacon-2", "location": { "x": 30, "y": 25 }, "gate": "B" },
+  { "id": "beacon-3", "location": { "x": 50, "y": 15 }, "gate": "C" },
+  { "id": "beacon-4", "location": { "x": 70, "y": 10 }, "gate": "D" }
+]
